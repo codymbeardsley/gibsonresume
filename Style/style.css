@@ -1,0 +1,130 @@
+body {
+	background-image: url("Images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+div {
+	font-family: "Droid Serif", "Book Antiqua", Palatino, serif;
+}
+
+ul {
+	font-size: 1.2em;
+	list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul li {
+	background-image: ;
+    background-repeat: no-repeat;
+    background-position: 0px center; 
+    padding-left: 2em; 
+}
+
+p {
+	font-size: 1.2em;
+	margin: 0px;
+	padding: 0px;
+}
+
+br {
+	line-height: 1em;
+}
+
+a:link {
+	color: #000000;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #006600;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #006600;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #000000;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+.header {
+	margin-top: 1em;
+}
+
+.name {
+	font-size: 3em;
+	font-weight: bold;
+}
+
+.b14 {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.i12 {
+	font-size: 1.2em;
+	font-style: italic;
+}
+
+.skill-lvl {
+	font-size: .9em;
+	font-style: normal;
+}
+
+.social {
+	height: 1.5em;
+	font-weight: bold;
+}
+
+#mugshot {
+	height: 6em;
+	width: 6em;
+	border: .2em solid #006600;
+	border-radius: 100%;
+	margin-top: -1.5em;
+}
+
+#name_block {
+	float: left;
+	padding-top: 1em;
+}
+
+#contact_block {
+	float: right;
+}
+
+#category {
+	float: left;
+	clear: both;
+	color: #006600;
+}
+
+#description {
+	float: right;
+}
+
+#about_me {
+	text-align: justify;
+}
+
+#divider_thick {
+	height: .2em;
+	margin-top: 1em;
+	background-color: #006600;
+}
+
+#divider_thin {
+	height: .1em;
+	margin-top: 1em;
+	background-color: #006600;
+}

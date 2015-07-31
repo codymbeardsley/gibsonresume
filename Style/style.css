@@ -96,20 +96,24 @@ a:active {
 #name_block {
 	float: left;
 	padding-top: 1em;
+	text-align: left;
 }
 
 #contact_block {
 	float: right;
+	text-align: right;
 }
 
 #category {
 	float: left;
 	clear: both;
 	color: #006600;
+	text-align: left;
 }
 
 #description {
 	float: right;
+	text-align: left;
 }
 
 #about_me {
@@ -120,10 +124,12 @@ a:active {
 	height: .2em;
 	margin-top: 1em;
 	background-color: #006600;
+	clear: both;
 }
 
 #divider_thin {
 	height: .1em;
 	margin-top: 1em;
 	background-color: #006600;
+	clear: both;
 }
